@@ -34,3 +34,6 @@ A stoopid lemon cat :lemon: :cat2:.
 ｜　 _つ      +  —̳͟͞͞⭐         —̳͟͞͞⭐ ˚
 `し´
 ```
+<div align="center">
+  <img src="https://i.pinimg.com/564x/00/3b/e0/003be0160b9a9d0d0aa24830762b10f4.jpg" alt="" />
+</div>
