@@ -21,15 +21,19 @@ A stoopid lemon cat :lemon: :cat2:.
 *Just a heads up, I like to joke around (sometimes at my own expense!). If my humor lands flat or that's not your style, no worries, just hit that block button.*
 
 *This intro is just the tip of the iceberg. The real adventure lies ahead :sparkles:.*
+<br/>
 
-- [Facebook](https://www.facebook.com/lou.ngx)
-- [Discord Server](https://discord.gg/mk7QrzZaPh)
-- [Twitter](https://twitter.com/loux2206)
+<div align="center">
+  <a href="https://facebook.com/lou.ngx"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" alt="Facebook" /></a>
+  <a href="https://x.com/loux2206"><img src="https://img.shields.io/badge/Twitter-black?logo=x" alt="Twitter" /></a>
+</div>
 
 <br/>
+
 <div align="center">
   <img src="https://i.pinimg.com/564x/00/3b/e0/003be0160b9a9d0d0aa24830762b10f4.jpg" alt="" />
 </div>
+
 <br/>
 
 **Don't forget to follow me and star my pinned repositories >w<**
