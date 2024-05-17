@@ -26,6 +26,12 @@ A stoopid lemon cat :lemon: :cat2:.
 - [Discord Server](https://discord.gg/mk7QrzZaPh)
 - [Twitter](https://twitter.com/loux2206)
 
+<br/>
+<div align="center">
+  <img src="https://i.pinimg.com/564x/00/3b/e0/003be0160b9a9d0d0aa24830762b10f4.jpg" alt="" />
+</div>
+<br/>
+
 **Don't forget to follow me and star my pinned repositories >w<**
 ```
 ˚∧＿∧  　+        —̳͟͞͞⭐
@@ -34,6 +40,3 @@ A stoopid lemon cat :lemon: :cat2:.
 ｜　 _つ      +  —̳͟͞͞⭐         —̳͟͞͞⭐ ˚
 `し´
 ```
-<div align="center">
-  <img src="https://i.pinimg.com/564x/00/3b/e0/003be0160b9a9d0d0aa24830762b10f4.jpg" alt="" />
-</div>
