@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+
+* {
+	font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+	margin: 0;
+	background-color: #B3C8CF;
+}
+
+.main {
+	flex-flow: column;
+	gap: 20px;
+	display: flex;
+	height: 100%;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.header {
+	font-size: 80px;
+	font-family: "Cherry Bomb One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+	color: white;
+}
+
+.about {
+	background-color: #9BB0C1;
+	padding: 20px;
+}
