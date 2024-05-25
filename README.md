@@ -1,3 +1,6 @@
+> [!NOTE]  
+> I'm currently in a break for upcoming Entrance exam.
+
 **:bouquet:⸜(⸝⸝⸝´꒳`⸝⸝⸝)⸝ Hi, I'm Louis!**
 A stoopid lemon cat :lemon: :cat2:.
 
